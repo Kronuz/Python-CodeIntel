@@ -1,0 +1,1 @@
+typeshed = ... # type: str
